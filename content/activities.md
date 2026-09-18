@@ -28,7 +28,7 @@ Eight problem sets apply each unit's tools to new systems: [Homework 1](notebook
 
 ## Adding an activity
 
-Activities live as MyST Markdown notebooks in [`content/notebooks/`](notebooks). To add one:
+Activities live as MyST Markdown notebooks in `content/notebooks/`. To add one:
 
 1. Add a new `.md` file there, following the style of an existing `*_start.md` notebook (a motivating question or system, then Python code cells that simulate or explore it).
 2. Register it in the `project.toc` list in [`myst.yml`](../myst.yml) so it appears in the site navigation.

@@ -42,6 +42,16 @@ project:
   error_rules:
     - id: static-action-file-copied
       severity: warn
+    # External URLs that return 403/404 to automated link checkers.
+    - rule: link-resolves
+      severity: ignore
+      keys:
+        - https://bookshop.org/p/books/a-most-elegant-equation-euler-s-formula-and-the-beauty-of-mathematics-david-stipp/11457298
+        - https://bookshop.org/p/books/dr-euler-s-fabulous-formula-cures-many-mathematical-ills-paul-j-nahin/9008263
+        - https://pmc.ncbi.nlm.nih.gov/articles/PMC5037942/
+        - https://www.lanl.gov/org/ddste/aldsc/theoretical/fluid-dynamics-solid-mechanics/index.php
+        - https://www.feynmanlectures.caltech.edu/
+        - https://pubs.aip.org/aapt/ajp/article-abstract/51/7/597/1052185/Pseudowork-and-real-work?redirectedFrom=fulltext
   exports:
     - id: book
       format: pdf+tex
