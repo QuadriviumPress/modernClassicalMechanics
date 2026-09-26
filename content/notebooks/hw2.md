@@ -46,16 +46,16 @@ These questions expect not only an answer, but an explanation of your reasoning.
 ### Exercise 2 (10 pt), setting up forces, Newton's second law
 
 Useful material here to read is
-1. Taylor chapters 1.3 and 1.4 and
+1. Taylor chapters 1.3 and 1.4
 
 2. Malthe-Sørenssen chapters 5.1, 5.2 and 5.3
 
 A person jumps from an airplane, falling freely for several seconds before the person pulls the cord of the parachute and the parachute unfolds. 
-* 2a (3pt)  Identify the forces acting on the parachuter and draw a free-body diagram of the parachuter before the person has pulled the cord. Include a brief discussion of any assumptions you make, motivate and justify your choices.
+* 2a (3pt)  Identify the forces acting on the parachutist and draw a free-body diagram of the parachutist before the person has pulled the cord. Include a brief discussion of any assumptions you make, motivate and justify your choices.
 
-* 2b (3pt)  Identify the forces acting on the parachuter and draw a free-body diagram of the parachuter after the person has pulled the cord. Include a brief discussion of any assumptions you make, motivate and justify your choices.
+* 2b (3pt)  Identify the forces acting on the parachutist and draw a free-body diagram of the parachutist after the person has pulled the cord. Include a brief discussion of any assumptions you make, motivate and justify your choices.
 
-* 2c (4pt) Sketch the net force acting on the parachuter as a function of time, $F(t)$. Choose and state a positive direction. Model the parachute deployment as a short transition from the pre-deployment drag force to the post-deployment drag force, and indicate the forces before and after deployment.
+* 2c (4pt) Sketch the net force acting on the parachutist as a function of time, $F(t)$. Choose and state a positive direction. Model the parachute deployment as a short transition from the pre-deployment drag force to the post-deployment drag force, and indicate the forces before and after deployment.
 
 +++ {"editable": true}
 
@@ -78,7 +78,7 @@ space shuttle does not change significantly over the first 20 s. Continue to ign
 ### Exercise 4 (15 pt), Hitting a golf ball
 
 Useful material here to read is
-* Taylor chapters 1.3-1.6 and
+* Taylor chapters 1.3-1.6
 * Malthe-Sørenssen chapter 6.3-6.4 and 7.1-7.3
 
 **Do Taylor exercise 1.35**. The formulae you obtain here will be useful for the numerical exercises below (see exercise 6 below).
