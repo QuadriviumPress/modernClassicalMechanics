@@ -52,6 +52,7 @@ project:
         - https://www.lanl.gov/org/ddste/aldsc/theoretical/fluid-dynamics-solid-mechanics/index.php
         - https://www.feynmanlectures.caltech.edu/
         - https://pubs.aip.org/aapt/ajp/article-abstract/51/7/597/1052185/Pseudowork-and-real-work?redirectedFrom=fulltext
+        - https://www.science.org/doi/10.1126/science.200.4343.766
   exports:
     - id: book
       format: pdf+tex
