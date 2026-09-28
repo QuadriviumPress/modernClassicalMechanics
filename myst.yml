@@ -53,6 +53,7 @@ project:
         - https://www.feynmanlectures.caltech.edu/
         - https://pubs.aip.org/aapt/ajp/article-abstract/51/7/597/1052185/Pseudowork-and-real-work?redirectedFrom=fulltext
         - https://www.science.org/doi/10.1126/science.200.4343.766
+        - https://aapt.scitation.org/doi/10.1119/1.10903
   exports:
     - id: book
       format: pdf+tex
