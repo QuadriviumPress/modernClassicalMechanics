@@ -113,7 +113,7 @@ A low Reynolds number flow is a flow where the viscous forces dominate the inert
 
 This video focuses on the biological aspects of the problem as the physics of low Reynolds numbers is important for understanding the motion of microorganisms. 
 
-[![Physics of Life - Life at Low Reynolds Number](../images/notes/unit4/life-at-low-reynolds-number.jpg))](https://youtube.com/watch?v=gZk2bMaqs1E)
+[![Physics of Life - Life at Low Reynolds Number](../images/notes/unit4/life-at-low-reynolds-number.jpg)](https://youtube.com/watch?v=gZk2bMaqs1E)
 
 Source: <https://youtube.com/watch?v=gZk2bMaqs1E>
 

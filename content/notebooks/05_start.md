@@ -88,7 +88,7 @@ Critical to the understanding of energy is that it is a property of a system. A 
 
 The video below is from an introductory physics course at Georgia Tech. It covers the important aspects of a point particle and how we miss some of the details when we focus exclusively on the point particle model.
 
-[![Point Particle and Real Models](../images/notes/unit5/point-particle-and-real-models.jpg))](https://www.youtube.com/watch?v=fbiNKrqVajM)
+[![Point Particle and Real Models](../images/notes/unit5/point-particle-and-real-models.jpg)](https://www.youtube.com/watch?v=fbiNKrqVajM)
 
 ### Kinetic Energy of a Point Mass
 

@@ -31,7 +31,7 @@ This homework's sets of classical pen and paper and computational
 exercises deal with some motion problems and conservation of energy. We also have a preparation exercise for the upcoming midterms and final project.
 
 The relevant reading background is
-1. chapters 3, 4.1, 4.2 and 4.3 of Taylor (there are many good examples there) and
+1. chapters 3, 4.1, 4.2 and 4.3 of Taylor (there are many good examples there)
 
 2. chapters 10-13 of Malthe-Sørenssen.
 

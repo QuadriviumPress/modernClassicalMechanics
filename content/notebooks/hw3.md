@@ -30,7 +30,7 @@ Total points: **100**.
 This homework's sets of classical pen and paper and computational
 exercises deal with the motion of different objects under the
 influence of various forces. The relevant reading background is
-1. chapter 2 of Taylor (there are many good examples there) and
+1. chapter 2 of Taylor (there are many good examples there)
 
 2. chapters 5-7 of Malthe-Sørenssen.
 
