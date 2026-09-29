@@ -23,7 +23,7 @@ npm run build:docx
 - `build` and `check` pass `--execute --strict` so Jupyter content runs during the build, and both finish with `node scripts/setup-pwa.mjs`.
 - Print exports: `build:exports`, `build:pdf`, `build:docx`.
 - Source lives under `content/`, not `chapters/`.
-- `scripts/setup-pwa.mjs` looks for a logo in `content/images/` before `images/`, because this book's logo is not the template SVG.
+- `scripts/setup-pwa.mjs` builds icons from `images/logo.svg`, a spinning top drawn for this book.
 
 ## Presentation gap
 

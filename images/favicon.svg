@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Modern Classical Mechanics</title>
+  <rect width="64" height="64" rx="12" fill="#10241c"/>
+  <ellipse cx="32" cy="48" rx="22" ry="6" fill="none" stroke="#c9a227" stroke-width="3"/>
+  <path d="M32 18 L44 40 L20 40 Z" fill="#d8efe4"/>
+  <rect x="29.5" y="12" width="5" height="8" rx="1.5" fill="#e7f2ea"/>
+  <circle cx="32" cy="11" r="3.4" fill="#c9a227"/>
+  <path d="M32 40 L28 52 L36 52 Z" fill="#e7f2ea"/>
+</svg>

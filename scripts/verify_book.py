@@ -337,7 +337,7 @@ def main() -> int:
         orphans = sorted(
             p
             for p in (on_disk - referenced)
-            if p.name not in {"logo.png", "logo.svg", "logo.jpg"}
+            if p.name not in {"logo.png", "logo.svg", "logo-dark.svg", "favicon.svg", "logo.jpg"}
         )
         if orphans:
             sample = ", ".join(str(p.relative_to(ROOT)) for p in orphans[:8])

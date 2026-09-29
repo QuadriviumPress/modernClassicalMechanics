@@ -22,7 +22,7 @@ are covered by the book content license.
 | --- | --- | --- |
 | Course diagrams and plots in `content/images/notes/` | Modern Classical Mechanics authors | CC-BY-NC-4.0 |
 | Activity diagrams in `content/images/activities/` | Modern Classical Mechanics authors (unless a caption says otherwise) | CC-BY-NC-4.0 |
-| Site logo `content/images/logo.png` | Modern Classical Mechanics authors | CC-BY-NC-4.0 |
+| Site marks `images/logo.svg`, `images/logo-dark.svg`, `images/favicon.svg` | QuadriviumPress | MIT |
 
 ## Third-party figures
 

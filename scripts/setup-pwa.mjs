@@ -39,12 +39,11 @@ for (const file of ['offline.html', 'service-worker.js']) {
 }
 
 const logoCandidates = [
-  path.join(root, 'content', 'images', 'logo.png'),
   path.join(root, 'images', 'logo.svg'),
   path.join(root, 'images', 'logo.png'),
 ];
 const logo = logoCandidates.find((candidate) => fs.existsSync(candidate));
-if (!logo) throw new Error('Missing logo for PWA icons (tried content/images/logo.png, images/logo.svg, images/logo.png).');
+if (!logo) throw new Error('Missing logo for PWA icons (tried images/logo.svg, images/logo.png).');
 
 for (const size of [192, 512]) {
   await sharp(logo).resize(size, size).png().toFile(path.join(output, 'icons', `icon-${size}.png`));

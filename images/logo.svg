@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Modern Classical Mechanics</title>
+  <desc id="desc">A spinning top leaning through a gold precession ring on a pale green field.</desc>
+  <rect width="512" height="512" rx="96" fill="#e7f2ea"/>
+  <ellipse cx="256" cy="372" rx="168" ry="46" fill="none" stroke="#c9a227" stroke-width="16"/>
+  <path d="M256 168 L348 332 L164 332 Z" fill="#14523a"/>
+  <path d="M256 196 L312 332 L256 332 Z" fill="#1f7a56"/>
+  <rect x="240" y="112" width="32" height="64" rx="12" fill="#0f3d2e"/>
+  <circle cx="256" cy="108" r="26" fill="#c9a227"/>
+  <path d="M256 332 L232 404 L280 404 Z" fill="#0f3d2e"/>
+</svg>
