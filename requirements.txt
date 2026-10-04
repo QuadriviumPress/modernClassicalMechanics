@@ -3,5 +3,5 @@ scipy>=1.18.1
 matplotlib>=3.11.2
 pandas>=3.0.6
 ipython>=9.17.1
-ipykernel>=7.3.0
+ipykernel>=7.4.0
 jupyter_server>=2.21.1
