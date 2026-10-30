@@ -24,7 +24,7 @@ presentation.
 
 ## Build
 
-Use Node 22 (`nvm use` if you have nvm; see `.nvmrc`).
+Use Node 26 (`nvm use` if you have nvm; see `.nvmrc`).
 
 ```bash
 npm install
