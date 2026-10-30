@@ -11,7 +11,7 @@
 #         npm run build:docx               (both -- the DOCX is built from the
 #                                            PDF's .tex, so this rebuilds it too)
 #
-# Requires: Node 26 + npm 10, a Python environment with requirements.txt
+# Requires: Node 26 + npm 11.20.0, a Python environment with requirements.txt
 # installed and a registered `python3` Jupyter kernel (the notebooks execute
 # during the export, same as the website build), and a TeX Live with XeLaTeX
 # and latexmk. The DOCX additionally needs pandoc; Inkscape and poppler-utils
